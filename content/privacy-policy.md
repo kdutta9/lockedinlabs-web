@@ -2,7 +2,7 @@
 title: ZonedIn Privacy Policy
 ---
 
-**Last updated: March 30, 2026**
+**Last updated: June 12, 2026**
 
 ZonedIn ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use the ZonedIn mobile application.
 
@@ -69,7 +69,7 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 If you have questions about this Privacy Policy, please contact us at:
 
-**Email:** [kunaldutta1749@gmail.com](mailto:kunaldutta1749@gmail.com)
+**Email:** [support@locked-in-labs.com](mailto:support@locked-in-labs.com)
 
 Or use the [ZonedIn Support](/support) contact form.
 

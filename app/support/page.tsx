@@ -116,10 +116,10 @@ export default function SupportPage() {
             <p className="text-red-400 text-sm">
               Something went wrong. Email us at{" "}
               <a
-                href="mailto:kunaldutta1749@gmail.com"
+                href="mailto:support@locked-in-labs.com"
                 className="underline hover:text-red-300"
               >
-                kunaldutta1749@gmail.com
+                support@locked-in-labs.com
               </a>
               .
             </p>
@@ -137,7 +137,7 @@ export default function SupportPage() {
               <p className="text-neutral-600 text-xs">
                 Form not configured —{" "}
                 <a
-                  href="mailto:kunaldutta1749@gmail.com"
+                  href="mailto:support@locked-in-labs.com"
                   className="underline hover:text-neutral-400 transition-colors"
                 >
                   email us directly
@@ -151,10 +151,10 @@ export default function SupportPage() {
       <p className="text-neutral-500 text-sm mb-14">
         You can also reach us at{" "}
         <a
-          href="mailto:kunaldutta1749@gmail.com"
+          href="mailto:support@locked-in-labs.com"
           className="text-neutral-300 hover:text-white transition-colors"
         >
-          kunaldutta1749@gmail.com
+          support@locked-in-labs.com
         </a>
         . We respond within 48 hours.
       </p>
@@ -168,8 +168,7 @@ export default function SupportPage() {
             How do I create an account?
           </p>
           <p className="text-sm text-neutral-400 leading-relaxed">
-            Tap &quot;Continue with Apple&quot; on the login screen. You can
-            also use the app without an account.
+            Tap &quot;Continue with Apple&quot; on the login screen.
           </p>
         </div>
         <div>
@@ -180,10 +179,10 @@ export default function SupportPage() {
             Use the contact form above with the &quot;Account Deletion&quot;
             subject, or email{" "}
             <a
-              href="mailto:kunaldutta1749@gmail.com"
+              href="mailto:support@locked-in-labs.com"
               className="text-neutral-300 hover:text-white transition-colors"
             >
-              kunaldutta1749@gmail.com
+              support@locked-in-labs.com
             </a>{" "}
             with the subject &quot;Account Deletion Request.&quot; We will
             process your request within 30 days.

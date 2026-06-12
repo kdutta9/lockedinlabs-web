@@ -2,7 +2,7 @@
 title: ZonedIn Terms of Use
 ---
 
-**Last updated: April 11, 2026**
+**Last updated: June 12, 2026**
 
 Please read these Terms of Use ("Terms") carefully before using the ZonedIn mobile application ("App") operated by ZonedIn ("we", "our", or "us").
 
@@ -66,7 +66,7 @@ These Terms shall be governed by and construed in accordance with the laws of th
 
 If you have any questions about these Terms, please contact us at:
 
-**Email:** [kunaldutta1749@gmail.com](mailto:kunaldutta1749@gmail.com)
+**Email:** [support@locked-in-labs.com](mailto:support@locked-in-labs.com)
 
 Or use the [ZonedIn Support](/support) contact form.
 
